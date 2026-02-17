@@ -8,7 +8,7 @@ Users can securely save, manage, and sync bookmarks in real-time across multiple
 
 ## 🚀 Live Demo
 
-👉 https://smart-bookmark-app-ivory.vercel.app  
+👉 https://smart-bookmark-app-lac-ten.vercel.app 
 
 ---
 
