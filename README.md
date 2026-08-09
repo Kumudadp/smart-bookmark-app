@@ -175,4 +175,4 @@ Solution: Configured Tailwind content paths correctly and ensured global CSS was
 
 ## GitHub:
 (https://github.com/Kumudadp)
-(https://github.com/Kumudadp12)
+
